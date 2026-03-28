@@ -180,8 +180,7 @@ FlatL2 is the only index that fails to scale — all approximate indexes handle 
 
 ## 👤 Author
 
-**[Your Name]**
-[Your University] — [Your Department]
+**[Nusrat Afifa Dina]**
 CSE488: Big Data Analytics
 
 ---
